@@ -8,5 +8,5 @@
 ⚡ Fun fact: I love watching movies
 
 My Skill
-![Uploading 4G0A3852.JPG…]()
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
