@@ -13,5 +13,5 @@
 
 My Skill
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,angular,cs,docker,git,github,nodejs,npm,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,dotnet,angular,cs,docker,git,github,nodejs,npm,visualstudio,vscode)](https://skillicons.dev)
 
