@@ -8,5 +8,6 @@
 ⚡ Fun fact: I love watching movies
 
 My Skill
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
